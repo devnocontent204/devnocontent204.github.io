@@ -1,0 +1,34 @@
+
+taif xiur.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 727, 30
+  size: 216, 195
+  orig: 216, 195
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 4
+  size: 390, 242
+  orig: 390, 242
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 394, 2
+  size: 331, 244
+  orig: 331, 244
+  offset: 0, 0
+  index: -1
+glow
+  rotate: true
+  xy: 924, 96
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1

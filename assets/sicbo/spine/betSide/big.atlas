@@ -1,0 +1,27 @@
+
+big.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 154, 82
+  size: 216, 195
+  orig: 216, 195
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 372, 2
+  size: 604, 275
+  orig: 604, 275
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 2, 128
+  size: 150, 149
+  orig: 150, 149
+  offset: 0, 0
+  index: -1

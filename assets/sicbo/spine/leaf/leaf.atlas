@@ -1,0 +1,13 @@
+
+leaf.png
+size: 35,53
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+leaf
+  rotate: false
+  xy: 2, 2
+  size: 31, 49
+  orig: 55, 62
+  offset: 11, 7
+  index: -1
